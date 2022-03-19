@@ -19,23 +19,23 @@
     <!-- Face Unlock -->
     <string name="security_settings_face_settings_footer_custom">Face unlock lets you unlock your device by looking at it. Keep in mind:\n\n● Your device may unlock any time you look at it.\n● Your device can be unlocked by someone else if they hold it in front of your face while your eyes are open.\n● Your device may also be unlocked by someone who looks a lot like you, such as a child or identical sibling.</string>
     <string name="security_settings_face_settings_remove_dialog_details_custom">Data recorded by face unlock will be permanently and securely deleted. After removal, you will need your PIN, pattern, or password to unlock your phone.</string>
-    <string name="security_settings_face_unlock_redo_face_scan_summary">Remove existing face scan and create a new scan</string>
-    <string name="security_settings_face_unlock_redo_face_scan_title">Redo face scan</string>
-    <string name="face_redo_confirm_btn">Redo</string>
-    <string name="face_redo_warning_msg">Do you want to remove the existing face scan and create a new one?</string>
-    <string name="face_unlock_method_title">Allow face unlock on lock screen</string>
-    <string name="face_unlock_method_default">When the screen is turned on</string>
-    <string name="face_unlock_method_swipe">When swiping on lock screen</string>
+    <string name="security_settings_face_unlock_redo_face_scan_summary">Hapus pemindaian wajah yang ada dan buat pemindaian baru</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">Ulangi pemindaian wajah</string>
+    <string name="face_redo_confirm_btn">Ulangi</string>
+    <string name="face_redo_warning_msg">Apakah Anda ingin menghapus pemindaian wajah yang ada dan membuat pemindaian baru?</string>
+    <string name="face_unlock_method_title">Izinkan face unlock di layar kunci</string>
+    <string name="face_unlock_method_default">Saat layar dihidupkan</string>
+    <string name="face_unlock_method_swipe">Saat mengusap layar kunci</string>
 
     <!-- SELinux Status -->
-    <string name="selinux_status">SELinux status</string>
-    <string name="selinux_status_disabled">Disabled</string>
+    <string name="selinux_status">Status SELinux</string>
+    <string name="selinux_status_disabled">Dinonaktifkan</string>
     <string name="selinux_status_permissive">Permissive</string>
     <string name="selinux_status_enforcing">Enforcing</string>
 
     <!-- Three-fingers-swipe to screenshot -->
-    <string name="three_finger_gesture">Swipe to screenshot</string>
-    <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
+    <string name="three_finger_gesture">Gesek untuk tangkapan layar</string>
+    <string name="three_finger_gesture_summary">Gesek tiga jari ke bawah untuk tangkapan layar</string>
 
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Screen refresh rate</string>
@@ -46,20 +46,20 @@
     <string name="notification_log_summary">Show notifications history log</string>
 
     <!-- Density category -->
-    <string name="density_category">Density options</string>
+    <string name="density_category">Pilihan Kepadatan</string>
 
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
     <string name="platform_revision">Platform</string>
 
     <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
-    <string name="total_ram">Total available RAM</string>
+    <string name="total_ram">Total RAM tersedia</string>
 
     <!-- Cipher maintainer -->
-    <string name="maintainer">Maintainer</string>
+    <string name="maintainer">Pengelola</string>
 
     <!-- Screenshot shutter -->
-    <string name="screenshot_shutter_sound_title">Screenshot sound</string>
+    <string name="screenshot_shutter_sound_title">Suara tangkapan layar</string>
 
     <!-- Statusbar net monitor -->
     <string name="traffic_title">Traffic indicators</string>
@@ -101,16 +101,16 @@
     <string name="status_bar_battery_style_text">Text</string>
     
     <!-- About CipherOS -->
-    <string name="cipher_about_info">About us</string>
-    <string name="cipher_about_summary">Our introduction and our team</string>
-    <string name="cipher_about_info_summary">CipherOS is a Android Custom OS, Based On AOSP, Striving to Provide its Users, A Clean, Bloat free &#38; Sturdy Experience with Minimal Customisation!</string>
-    <string name="dev_info">About CipherOS</string>
+    <string name="cipher_about_info">Tentang kami</string>
+    <string name="cipher_about_summary">Perkenalan kami dan tim kami</string>
+    <string name="cipher_about_info_summary">CipherOS adalah OS Kustom Android, berdasarkan AOSP, berusaha untuk memberikan penggunanya pengalaman yang bersih, bebas bloatware, dan kokoh dengan kustomisasi minimal!</string>
+    <string name="dev_info">Tentang CipherOS</string>
     <string name="github">Github</string>
-    <string name="github_description">View our source code</string>
+    <string name="github_description">Lihat kode sumber kami</string>
     <string name="telegram">Telegram</string>
-    <string name="telegram_description">Subscribe to our Telegram channel</string>
-    <string name="web">Download Center</string>
-    <string name="web_description">Visit our download portal</string>
+    <string name="telegram_description">Gabung dengan saluran Telegram kami</string>
+    <string name="web">Pusat Unduhan</string>
+    <string name="web_description">Kunjungi situs unduhan kami</string>
 
      <!-- CipherOS Team-->
     <string name="leads">Team Leads</string>
@@ -134,27 +134,27 @@
     <string name="team9_description">Web Developer</string>
 
     <!-- Homepage -->
-    <string name="cipher_homepage_connectivity">Connectivity</string>
-    <string name="cipher_homepage_device">Device</string>
-    <string name="cipher_homepage_security">Security</string>
-    <string name="cipher_homepage_customization">Customizations</string>
-    <string name="cipher_homepage_system">System</string>
+    <string name="cipher_homepage_connectivity">Konektivitas</string>
+    <string name="cipher_homepage_device">Perangkat</string>
+    <string name="cipher_homepage_security">Keamanan</string>
+    <string name="cipher_homepage_customization">Kustomisasi</string>
+    <string name="cipher_homepage_system">Sistem</string>
 
     <!-- About page -->
-    <string name="cipher_android">Android Version</string>
-    <string name="cipher_baseband">Baseband Version</string>
-    <string name="cipher_date">Build Date</string>
-    <string name="cipher_device">Device</string>
+    <string name="cipher_android">Versi Android</string>
+    <string name="cipher_baseband">Versi pita basis</string>
+    <string name="cipher_date">Tanggal pembuatan</string>
+    <string name="cipher_device">Perangkat</string>
     <string name="cipher_id">Build ID</string>
-    <string name="cipher_kernel">Kernel Version</string>
-    <string name="cipher_maintainer">Maintainer</string>
-    <string name="cipher_number">Build Number</string>
-    <string name="cipher_ram">RAM Usage</string>
-    <string name="cipher_security">Android Security Update</string>
-    <string name="cipher_serial">Serial Number</string>
-    <string name="cipher_selinux">SELinux Status</string>
+    <string name="cipher_kernel">Versi kernel</string>
+    <string name="cipher_maintainer">Pengelola</string>
+    <string name="cipher_number">Nomor build</string>
+    <string name="cipher_ram">Penggunaan RAM</string>
+    <string name="cipher_security">Update keamanan Android</string>
+    <string name="cipher_serial">Nomor serial</string>
+    <string name="cipher_selinux">Status SELinux</string>
     <string name="cipher_status">Status</string>
-    <string name="cipher_type">Build Type</string>
-    <string name="cipher_version">CipherOS Version</string>
+    <string name="cipher_type">Tipe Build</string>
+    <string name="cipher_version">Versi CipherOS</string>
   
 </resources>
